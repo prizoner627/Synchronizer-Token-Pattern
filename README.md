@@ -4,8 +4,24 @@ This project demonstrates how to use CSRF Tokens and Session IDs to validate ses
 
 ## Setup
 
-Requirements
+### Requirements
 
 A recent version of NodeJS
 
-*Clone this repository Use master branch !*
+### Running the App
+
+Clone this repository Use master branch !
+
+> Steps
+
+RUN `npm install`
+
+Navigate to `synchronizer-token-pattern` directory and run `node Server.js`
+
+Navigate to `synchronizer-token-pattern/Client` directory and run `npm start`
+
+The app runs on `port 3000`
+
+Open a web browser and navigate to `http://localhost:3000/`
+
+User username `root` and password `toor` to log in.

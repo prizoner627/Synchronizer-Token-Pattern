@@ -14,14 +14,14 @@ Clone this repository Use master branch !
 
 > Steps
 
-RUN `npm install`
+* RUN `npm install`
 
-Navigate to `synchronizer-token-pattern` directory and run `node Server.js`
+* Navigate to `synchronizer-token-pattern` directory and run `node Server.js`
 
-Navigate to `synchronizer-token-pattern/Client` directory and run `npm start`
+* Navigate to `synchronizer-token-pattern/Client` directory and run `npm start`
 
-The app runs on `port 3000`
+* The app runs on `port 3000`
 
-Open a web browser and navigate to `http://localhost:3000/`
+* Open a web browser and navigate to `http://localhost:3000/`
 
-User username `root` and password `toor` to log in.
+* User username `root` and password `toor` to log in.

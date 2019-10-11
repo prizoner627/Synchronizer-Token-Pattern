@@ -25,3 +25,7 @@ Clone this repository Use master branch !
 * Open a web browser and navigate to `http://localhost:3000/`
 
 * User username `root` and password `toor` to log in.
+
+### Description
+
+Upon successful user login, the server generates a Session ID and a CSRF Token for the session. Session ID is set as a browser cookie. When user submits the form, The server validates whether the Session ID and CSRF Token matches. When user logs out Session ID and CSRF Token are deleted from the server making them unusable.

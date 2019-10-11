@@ -7,4 +7,5 @@ This project demonstrates how to use CSRF Tokens and Session IDs to validate ses
 Requirements
 
 A recent version of NodeJS
+
 *Clone this repository Use master branch !*
